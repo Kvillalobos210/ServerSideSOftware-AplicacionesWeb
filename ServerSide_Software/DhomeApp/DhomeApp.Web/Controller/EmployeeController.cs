@@ -22,7 +22,7 @@ namespace DhomeApp.Web.Controller
             _context = context;
         }
 
-        // GET: api/Employees
+        // GET: api/Employee
         [HttpGet]
         public async Task<IEnumerable<EmployeeModel>> GetEmployee()  
         {
@@ -62,7 +62,7 @@ namespace DhomeApp.Web.Controller
         }
 
         //Actualizar
-        // PUT: api/Employees/PutEmployee
+        // PUT: api/Employee/PutEmployee
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("[action]")]
         public async Task<IActionResult> PutEmployee([FromBody] PostEmployeeModel cmodel)
@@ -102,7 +102,7 @@ namespace DhomeApp.Web.Controller
 
 
         //Crear
-        // POST: api/Employees
+        // POST: api/Employee
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
         public async Task<IActionResult> PostEmployee([FromBody] PostEmployeeModel cmodel)
