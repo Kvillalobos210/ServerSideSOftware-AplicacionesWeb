@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAer8WtbJSr0ms8orVgdXqywAAAAACAAAAAAAQZgAAAAEAACAAAACQURpugk5mDIrGzn9P6p9HtUe2lRtRBT+gHuE4Lwk6CwAAAAAOgAAAAAIAACAAAAC1tHgUTYFxC4AqH+zWJVPnjVah93EfbFLYkwuGKB9rFoAAAAA7HOuYmmpiHkA3JY0ufvAakyR2OfV5zS3IJPlLyJfyK9/tnzOqVTg/D3EcIKbOJHXIQP4FOnxjquu86XMtHlfj6qBLRHa1O2WcESNnLSskJOAArLm/AnPcZS8yo8kUZAvdJWW8IbRR5pEDVt+CGlAlqT/jIzjZYT9UopbejiTe80AAAABTgcTwWh1kE5OvUfZksx6PWMObp4DPWXKlk19TWgeO4uzHUYrNZfUfqhUqzcjZCp/LGhqc78/Sh+yQm6YMH1gb</EncryptedPassword>
+    <History>True|2021-05-07T21:44:07.1166856Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConexionAW">
+      <Value>Data Source=tcp:dhomeappwebdbserver.database.windows.net,1433%3bInitial Catalog=DhomeApp.Web_db%3bUser Id=Gianella%40dhomeappwebdbserver%3bPassword=BasededatosDhome1</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="DhomeApp.Data.DbContextDhomeApp">
+      <Value>Data Source=tcp:dhomeappwebdbserver.database.windows.net,1433%3bInitial Catalog=DhomeApp.Web_db%3bUser Id=Gianella%40dhomeappwebdbserver%3bPassword=BasededatosDhome1</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
