@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="DhomeAppWeb" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\User\\Documents\\UPC-Trabajos\\Aplicaciones\ Web\\Capstone\ Project\\TP\\DhomeApp\\DhomeApp\\DhomeApp\.Web\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
-  </parameter>
-  <parameter name="DhomeApp.Data.DbContextDhomeApp" description="" value="Data Source=tcp:dhomeappwebdbserver.database.windows.net,1433;Initial Catalog=DhomeApp.Web_db;User Id=Gianella@dhomeappwebdbserver;Password=BasededatosDhome1" tags="dbfullsql">
-    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\User\\Documents\\UPC-Trabajos\\Aplicaciones\ Web\\Capstone\ Project\\TP\\DhomeApp\\DhomeApp\\DhomeApp\.Web\\obj\\Release\\net5\.0\\PubTmp\\EFSQLScripts\\DhomeApp\.Data\.DbContextDhomeApp\.sql$" />
-  </parameter>
-</parameters>

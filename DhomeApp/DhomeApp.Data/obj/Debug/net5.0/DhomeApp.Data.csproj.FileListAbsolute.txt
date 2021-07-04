@@ -1,0 +1,90 @@
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.deps.json
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.runtimeconfig.json
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.runtimeconfig.dev.json
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\ref\DhomeApp.Data.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.pdb
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Entity.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Entity.pdb
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csprojAssemblyReference.cache
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.AssemblyInfo.cs
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csproj.CopyComplete
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\ref\DhomeApp.Data.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.pdb
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.genruntimeconfig.cache
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.deps.json
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.runtimeconfig.json
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.runtimeconfig.dev.json
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\ref\DhomeApp.Data.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.pdb
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Entity.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Entity.pdb
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csprojAssemblyReference.cache
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.AssemblyInfo.cs
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csproj.CopyComplete
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\ref\DhomeApp.Data.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.pdb
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.genruntimeconfig.cache
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.deps.json
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.runtimeconfig.json
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.runtimeconfig.dev.json
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\ref\DhomeApp.Data.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.pdb
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Entity.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Entity.pdb
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csprojAssemblyReference.cache
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.AssemblyInfoInputs.cache
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.AssemblyInfo.cs
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csproj.CoreCompileInputs.cache
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csproj.CopyComplete
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\ref\DhomeApp.Data.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.pdb
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.genruntimeconfig.cache
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.deps.json
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.runtimeconfig.json
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.runtimeconfig.dev.json
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\ref\DhomeApp.Data.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.pdb
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Entity.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Entity.pdb
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csprojAssemblyReference.cache
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.AssemblyInfoInputs.cache
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.AssemblyInfo.cs
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csproj.CoreCompileInputs.cache
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csproj.CopyComplete
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\ref\DhomeApp.Data.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.pdb
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.genruntimeconfig.cache
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.deps.json
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.runtimeconfig.json
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.runtimeconfig.dev.json
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.dll
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\ref\DhomeApp.Data.dll
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Data.pdb
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Entity.dll
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\bin\Debug\net5.0\DhomeApp.Entity.pdb
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csprojAssemblyReference.cache
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.AssemblyInfo.cs
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.csproj.CopyComplete
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.dll
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\ref\DhomeApp.Data.dll
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.pdb
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Data\obj\Debug\net5.0\DhomeApp.Data.genruntimeconfig.cache

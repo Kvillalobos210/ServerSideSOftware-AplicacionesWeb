@@ -1,0 +1,705 @@
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.exe
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.deps.json
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.runtimeconfig.json
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.runtimeconfig.dev.json
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ref\DhomeApp.Web.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.pdb
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Data.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Entity.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Data.pdb
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Entity.pdb
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csprojAssemblyReference.cache
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.AssemblyInfo.cs
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\staticwebassets\DhomeApp.Web.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\staticwebassets\DhomeApp.Web.StaticWebAssets.xml
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\scopedcss\bundle\DhomeApp.Web.styles.css
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csproj.CopyComplete
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\ref\DhomeApp.Web.dll
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.pdb
+C:\Users\User\Documents\DhomeAppWeb\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.genruntimeconfig.cache
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\appsettings.json
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.exe
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.deps.json
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.runtimeconfig.json
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.runtimeconfig.dev.json
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ref\DhomeApp.Web.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.pdb
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Humanizer.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Data.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Entity.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Data.pdb
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Entity.pdb
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csprojAssemblyReference.cache
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.AssemblyInfoInputs.cache
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.AssemblyInfo.cs
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csproj.CoreCompileInputs.cache
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\staticwebassets\DhomeApp.Web.StaticWebAssets.Manifest.cache
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\staticwebassets\DhomeApp.Web.StaticWebAssets.xml
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\scopedcss\bundle\DhomeApp.Web.styles.css
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.RazorTargetAssemblyInfo.cache
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csproj.CopyComplete
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\ref\DhomeApp.Web.dll
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.pdb
+D:\WebApps-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.genruntimeconfig.cache
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.exe
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.deps.json
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.runtimeconfig.json
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.runtimeconfig.dev.json
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ref\DhomeApp.Web.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.pdb
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Data.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Entity.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Data.pdb
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Entity.pdb
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csprojAssemblyReference.cache
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.AssemblyInfo.cs
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\staticwebassets\DhomeApp.Web.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\staticwebassets\DhomeApp.Web.StaticWebAssets.xml
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\scopedcss\bundle\DhomeApp.Web.styles.css
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csproj.CopyComplete
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\ref\DhomeApp.Web.dll
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.pdb
+C:\Users\User\Documents\DHomeGianella\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.genruntimeconfig.cache
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\appsettings.json
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.exe
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.deps.json
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.runtimeconfig.json
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.runtimeconfig.dev.json
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ref\DhomeApp.Web.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.pdb
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Humanizer.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Data.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Entity.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Data.pdb
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Entity.pdb
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csprojAssemblyReference.cache
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.AssemblyInfoInputs.cache
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.AssemblyInfo.cs
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csproj.CoreCompileInputs.cache
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\staticwebassets\DhomeApp.Web.StaticWebAssets.Manifest.cache
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\staticwebassets\DhomeApp.Web.StaticWebAssets.xml
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\scopedcss\bundle\DhomeApp.Web.styles.css
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.RazorTargetAssemblyInfo.cache
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csproj.CopyComplete
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\ref\DhomeApp.Web.dll
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.pdb
+D:\WebApp-AW\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.genruntimeconfig.cache
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\appsettings.json
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.exe
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.deps.json
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.runtimeconfig.json
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.runtimeconfig.dev.json
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ref\DhomeApp.Web.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Web.pdb
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Humanizer.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Data.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Entity.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Data.pdb
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\bin\Debug\net5.0\DhomeApp.Entity.pdb
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csprojAssemblyReference.cache
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.AssemblyInfoInputs.cache
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.AssemblyInfo.cs
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csproj.CoreCompileInputs.cache
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\staticwebassets\DhomeApp.Web.StaticWebAssets.Manifest.cache
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\staticwebassets\DhomeApp.Web.StaticWebAssets.xml
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\scopedcss\bundle\DhomeApp.Web.styles.css
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.RazorTargetAssemblyInfo.cache
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csproj.CopyComplete
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\ref\DhomeApp.Web.dll
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.pdb
+D:\Web App\WebApps-AplicacionesWeb\Backend\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.genruntimeconfig.cache
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csprojAssemblyReference.cache
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.AssemblyInfo.cs
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.dll
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\ref\DhomeApp.Web.dll
+C:\Users\User\Downloads\DhomeApp-Gerardo\DhomeApp\DhomeApp.Web\obj\Debug\net5.0\DhomeApp.Web.pdb
